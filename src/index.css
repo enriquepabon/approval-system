@@ -1,0 +1,8 @@
+/* Elimina los @tailwind y usa los imports directos */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  background-color: #f9fafb;
+}
